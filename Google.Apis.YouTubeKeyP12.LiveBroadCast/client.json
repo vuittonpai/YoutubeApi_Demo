@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "paiconsolelivetv",
+  "private_key_id": "004cb2ddaea2ab31deb0a618248e6a51d97e2861",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuxw9TYBpy1aQB\npIdN3rIRlpM8KMCSfb6oQJ7OwRLnlOt/6lNOaleqgcRaS2uHG2PrZAlyvYD96r9W\nLDxjyAu96ajxb6vnIovqxAQC8qxOZHC2wW62MoUijMbqkHgTXnvrHGkThLjPV3J8\nL7uUNBmiZT0qXt7FGerRuxtbZsAYWEMAU01hNilWspxr9o0RqhCFrMVz/nBYj7iV\nwEsStGB6O5FhxkIUWSLup6bpidFFAu+zC9pGTes/lhflNrn2yEjzKD/kymxI24q5\n6s1nlRO3WdJK9re3zokT6AWN3nZT9ZPICBe+6bB/bnQ8C/8Pl175VD2N8mNWvIr5\ntNQuZL5VAgMBAAECggEAB6q8ZBKfEzK5zZQ+ltT+9O31vbNZ8z/1EtadQM7QBsmn\nfqAaxG6LM8C0JA15hSukUyluj3jhq86i7LBNe+ERwGR7ug+e6ylx5gjWowLebSS5\nzw9ZzUAWsaCataQQ9TFbxUE+fyuYzqIOGx8eHuiELijVXI9dCikFyuqAaJ68X+gl\nYW/D/jdSZsOF0RNKVeqy6U30Co2fgFao03B+rpqK7ej1MRYs1EhsU/c3QxFUwbC7\njdnpGDTj69g8sqHe7yGLSKND2PpwShuHiJtfyv2w2huZDZJDc5abcjufXu9HESqG\na9+a9V2asuED/kHtLGkpAoUSqVzAl/JBbw+oC6k41wKBgQDvMn5zUKRyfnlXwQVr\noZOzgoNkICN0y6DxyxPLf1IZfqlHQksii7gaBQ/tcFwPe33Czn3eLH2Z3pCaWMDt\noS3casoiK4G22O2u9CufWTw6GGcNhMbNtxqE2AhzL+/WF+derQKUo7qqrZD2/id6\n9LvZCPYsLtZ970vFO6ksBKnw8wKBgQC7DhnlWTrZBaBb9B6ovlRa5IqrHGjGiR25\nnObrfcv7RUbE3F6XW8fQSetaxhbBC9ND52OzjZWkgn9tUXXvSz15z6drqZGK9Til\nIVbjeUaQo3DTk5JV0NOW4ZCoiNAJy6BA/AfsJerH1gEsM+972xsnb4J7DIIUu4FI\njyeLsXmllwKBgQDAUqMlaNOwU0yRaFtJXRL7JJcsbELV59wyTYxO9MI4SYUmDIGI\n9zpBgYx65vq+YBaQCaNefftHOpKd53rIFe5f6WU48C5NrEH/h8eDSiaIt5I0ZmvK\nf8zMvz6cDxER3QplL0qB5Ntz3DZQwa1QyXI4YWI9yDMh8sPDg+LTx7Q0TQKBgHxF\nfgbVJTeReVwd71CEQl6wfz/2+9UKu2jZSMEjLiWdfMrE7UL5guJqeaYw/GT8ijsO\nuzpK0iQdXrMt74AvKISI5N2uJjd/e0aZw7QUmkD1lLu7yvigaDJRYV3WpwAa/Diw\nOEM3XaeuEdFgH7bVdlDY0IMXaESF3fpqwQcZvYu5AoGAOdMwsJHSqu8/GETA7lxI\nUKC7EvSqv/DUTesqWQmrBkinMneCTsJz1x1RyhZLPqu0Jvk7I2nXsVagzxyqXb49\nA03O61avLJ8OpTx2fBxV09pJxhw4nbrfjf9fgqEhrBgL4Kl2ueno8RI4NV7bA6Qb\naaVJ4loeKiArtB9TPtp2knk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "paiadmin@paiconsolelivetv.iam.gserviceaccount.com",
+  "client_id": "118337431909993610911",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paiadmin%40paiconsolelivetv.iam.gserviceaccount.com"
+}
