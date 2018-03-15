@@ -47,7 +47,7 @@ namespace LiveBroadCastsDemo
 
         /// <summary>
         /// 不用試了，官方已經說Service account 不支援 Youtube Api v3，
-        /// 浪費我超多時間
+        /// 浪費我超多時間，這個也是失敗
         /// </summary>
         /// <returns></returns>
         private async Task Run()
